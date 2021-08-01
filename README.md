@@ -1,2 +1,3 @@
 # main_1
-Aðalsvæði
+Aðalsvæði fyrir gögn tengd forriti #1
+
